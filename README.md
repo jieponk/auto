@@ -21,7 +21,7 @@ Or just do in the manual way:
 
 ## Article (in Bahasa Indonesia)
 
-- https://mazipan.space/membuat-commit-otomatis-ke-github/
+- https://www.mazipan.space/blog/2020-04-08-membuat-commit-otomatis-ke-github/
 
 ## Repo using this auto-commit
 
